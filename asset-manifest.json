@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marcywebdev/projectreact.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/marcywebdev/projectreact.git/static/js/main.275e9d1f.chunk.js",
+    "main.js.map": "/marcywebdev/projectreact.git/static/js/main.275e9d1f.chunk.js.map",
+    "runtime-main.js": "/marcywebdev/projectreact.git/static/js/runtime-main.3f3af59d.js",
+    "runtime-main.js.map": "/marcywebdev/projectreact.git/static/js/runtime-main.3f3af59d.js.map",
+    "static/js/2.fbeda752.chunk.js": "/marcywebdev/projectreact.git/static/js/2.fbeda752.chunk.js",
+    "static/js/2.fbeda752.chunk.js.map": "/marcywebdev/projectreact.git/static/js/2.fbeda752.chunk.js.map",
+    "index.html": "/marcywebdev/projectreact.git/index.html",
+    "precache-manifest.a5d399720af0c4e1b664b9412b33c62f.js": "/marcywebdev/projectreact.git/precache-manifest.a5d399720af0c4e1b664b9412b33c62f.js",
+    "service-worker.js": "/marcywebdev/projectreact.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/marcywebdev/projectreact.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fbeda752.chunk.js.LICENSE.txt": "/marcywebdev/projectreact.git/static/js/2.fbeda752.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/marcywebdev/projectreact.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f3af59d.js",
+    "static/js/2.fbeda752.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.275e9d1f.chunk.js"
+  ]
+}
